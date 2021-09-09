@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+D:\The Tech Academy\Basic C Sharp Projects\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+D:\The Tech Academy\Basic C Sharp Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+D:\The Tech Academy\Basic C Sharp Projects\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb
