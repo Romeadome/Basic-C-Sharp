@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\IncomeComparisionProgram\IncomeComparisionProgram\bin\Debug\IncomeComparisionProgram.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\IncomeComparisionProgram\IncomeComparisionProgram\bin\Debug\IncomeComparisionProgram.exe
+D:\The Tech Academy\Basic C Sharp Projects\IncomeComparisionProgram\IncomeComparisionProgram\bin\Debug\IncomeComparisionProgram.pdb
+D:\The Tech Academy\Basic C Sharp Projects\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\IncomeComparisionProgram.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\IncomeComparisionProgram.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\IncomeComparisionProgram.exe
+D:\The Tech Academy\Basic C Sharp Projects\IncomeComparisionProgram\IncomeComparisionProgram\obj\Debug\IncomeComparisionProgram.pdb

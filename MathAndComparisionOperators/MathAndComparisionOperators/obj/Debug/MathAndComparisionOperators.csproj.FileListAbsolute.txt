@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\MathAndComparisionOperators\MathAndComparisionOperators\bin\Debug\MathAndComparisionOperators.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\MathAndComparisionOperators\MathAndComparisionOperators\bin\Debug\MathAndComparisionOperators.exe
+D:\The Tech Academy\Basic C Sharp Projects\MathAndComparisionOperators\MathAndComparisionOperators\bin\Debug\MathAndComparisionOperators.pdb
+D:\The Tech Academy\Basic C Sharp Projects\MathAndComparisionOperators\MathAndComparisionOperators\obj\Debug\MathAndComparisionOperators.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\MathAndComparisionOperators\MathAndComparisionOperators\obj\Debug\MathAndComparisionOperators.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\MathAndComparisionOperators\MathAndComparisionOperators\obj\Debug\MathAndComparisionOperators.exe
+D:\The Tech Academy\Basic C Sharp Projects\MathAndComparisionOperators\MathAndComparisionOperators\obj\Debug\MathAndComparisionOperators.pdb
