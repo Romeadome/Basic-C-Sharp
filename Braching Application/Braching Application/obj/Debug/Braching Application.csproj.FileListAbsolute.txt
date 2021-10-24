@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\Braching Application\Braching Application\bin\Debug\Braching Application.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\Braching Application\Braching Application\bin\Debug\Braching Application.exe
+D:\The Tech Academy\Basic C Sharp Projects\Braching Application\Braching Application\bin\Debug\Braching Application.pdb
+D:\The Tech Academy\Basic C Sharp Projects\Braching Application\Braching Application\obj\Debug\Braching Application.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\Braching Application\Braching Application\obj\Debug\Braching Application.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\Braching Application\Braching Application\obj\Debug\Braching Application.exe
+D:\The Tech Academy\Basic C Sharp Projects\Braching Application\Braching Application\obj\Debug\Braching Application.pdb

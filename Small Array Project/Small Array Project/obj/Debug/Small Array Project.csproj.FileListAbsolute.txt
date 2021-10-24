@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\Small Array Project\Small Array Project\bin\Debug\Small Array Project.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\Small Array Project\Small Array Project\bin\Debug\Small Array Project.exe
+D:\The Tech Academy\Basic C Sharp Projects\Small Array Project\Small Array Project\bin\Debug\Small Array Project.pdb
+D:\The Tech Academy\Basic C Sharp Projects\Small Array Project\Small Array Project\obj\Debug\Small Array Project.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\Small Array Project\Small Array Project\obj\Debug\Small Array Project.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\Small Array Project\Small Array Project\obj\Debug\Small Array Project.exe
+D:\The Tech Academy\Basic C Sharp Projects\Small Array Project\Small Array Project\obj\Debug\Small Array Project.pdb

@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\Boolean Logic Application\Boolean Logic Application\bin\Debug\Boolean Logic Application.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\Boolean Logic Application\Boolean Logic Application\bin\Debug\Boolean Logic Application.exe
+D:\The Tech Academy\Basic C Sharp Projects\Boolean Logic Application\Boolean Logic Application\bin\Debug\Boolean Logic Application.pdb
+D:\The Tech Academy\Basic C Sharp Projects\Boolean Logic Application\Boolean Logic Application\obj\Debug\Boolean Logic Application.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\Boolean Logic Application\Boolean Logic Application\obj\Debug\Boolean Logic Application.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\Boolean Logic Application\Boolean Logic Application\obj\Debug\Boolean Logic Application.exe
+D:\The Tech Academy\Basic C Sharp Projects\Boolean Logic Application\Boolean Logic Application\obj\Debug\Boolean Logic Application.pdb

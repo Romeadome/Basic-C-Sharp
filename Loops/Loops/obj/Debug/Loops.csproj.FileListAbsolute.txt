@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\Loops\Loops\bin\Debug\Loops.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\Loops\Loops\bin\Debug\Loops.exe
+D:\The Tech Academy\Basic C Sharp Projects\Loops\Loops\bin\Debug\Loops.pdb
+D:\The Tech Academy\Basic C Sharp Projects\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\Loops\Loops\obj\Debug\Loops.exe
+D:\The Tech Academy\Basic C Sharp Projects\Loops\Loops\obj\Debug\Loops.pdb
