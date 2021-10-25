@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+D:\The Tech Academy\Basic C Sharp Projects\Iteration\Iteration\bin\Debug\Iteration.pdb
+D:\The Tech Academy\Basic C Sharp Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+D:\The Tech Academy\Basic C Sharp Projects\Iteration\Iteration\obj\Debug\Iteration.pdb
