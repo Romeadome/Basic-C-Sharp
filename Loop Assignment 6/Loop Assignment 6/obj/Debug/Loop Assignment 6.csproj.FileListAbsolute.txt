@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 6\Loop Assignment 6\bin\Debug\Loop Assignment 6.exe.config
+D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 6\Loop Assignment 6\bin\Debug\Loop Assignment 6.exe
+D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 6\Loop Assignment 6\bin\Debug\Loop Assignment 6.pdb
+D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 6\Loop Assignment 6\obj\Debug\Loop Assignment 6.csproj.AssemblyReference.cache
+D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 6\Loop Assignment 6\obj\Debug\Loop Assignment 6.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 6\Loop Assignment 6\obj\Debug\Loop Assignment 6.exe
+D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 6\Loop Assignment 6\obj\Debug\Loop Assignment 6.pdb
