@@ -1,0 +1,7 @@
+D:\Coding Projects Portfolio\Basic C Sharp Projects\Overloaded Math Functions\Overloaded Math Functions\obj\Debug\Overloaded Math Functions.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp Projects\Overloaded Math Functions\Overloaded Math Functions\obj\Debug\Overloaded Math Functions.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp Projects\Overloaded Math Functions\Overloaded Math Functions\bin\Debug\Overloaded Math Functions.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp Projects\Overloaded Math Functions\Overloaded Math Functions\bin\Debug\Overloaded Math Functions.exe
+D:\Coding Projects Portfolio\Basic C Sharp Projects\Overloaded Math Functions\Overloaded Math Functions\bin\Debug\Overloaded Math Functions.pdb
+D:\Coding Projects Portfolio\Basic C Sharp Projects\Overloaded Math Functions\Overloaded Math Functions\obj\Debug\Overloaded Math Functions.exe
+D:\Coding Projects Portfolio\Basic C Sharp Projects\Overloaded Math Functions\Overloaded Math Functions\obj\Debug\Overloaded Math Functions.pdb
