@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Overloaded_Math_Functions
 {
-    class Math_Method
+    public class Math_Method
     {
       
         public int Math(int input)
