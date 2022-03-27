@@ -1,7 +1,0 @@
-D:\Coding Projects Portfolio\Basic C Sharp Projects\Math Operation Functions\Math Operation Functions\bin\Debug\Math Operation Functions.exe.config
-D:\Coding Projects Portfolio\Basic C Sharp Projects\Math Operation Functions\Math Operation Functions\bin\Debug\Math Operation Functions.exe
-D:\Coding Projects Portfolio\Basic C Sharp Projects\Math Operation Functions\Math Operation Functions\bin\Debug\Math Operation Functions.pdb
-D:\Coding Projects Portfolio\Basic C Sharp Projects\Math Operation Functions\Math Operation Functions\obj\Debug\Math Operation Functions.csproj.AssemblyReference.cache
-D:\Coding Projects Portfolio\Basic C Sharp Projects\Math Operation Functions\Math Operation Functions\obj\Debug\Math Operation Functions.csproj.CoreCompileInputs.cache
-D:\Coding Projects Portfolio\Basic C Sharp Projects\Math Operation Functions\Math Operation Functions\obj\Debug\Math Operation Functions.exe
-D:\Coding Projects Portfolio\Basic C Sharp Projects\Math Operation Functions\Math Operation Functions\obj\Debug\Math Operation Functions.pdb

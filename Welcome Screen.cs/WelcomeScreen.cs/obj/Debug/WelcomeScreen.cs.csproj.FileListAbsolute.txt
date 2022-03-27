@@ -1,7 +1,0 @@
-D:\The Tech Academy\Basic C Sharp Projects\WelcomeScreen.cs\WelcomeScreen.cs\bin\Debug\WelcomeScreen.cs.exe.config
-D:\The Tech Academy\Basic C Sharp Projects\WelcomeScreen.cs\WelcomeScreen.cs\bin\Debug\WelcomeScreen.cs.exe
-D:\The Tech Academy\Basic C Sharp Projects\WelcomeScreen.cs\WelcomeScreen.cs\bin\Debug\WelcomeScreen.cs.pdb
-D:\The Tech Academy\Basic C Sharp Projects\WelcomeScreen.cs\WelcomeScreen.cs\obj\Debug\WelcomeScreen.cs.csproj.AssemblyReference.cache
-D:\The Tech Academy\Basic C Sharp Projects\WelcomeScreen.cs\WelcomeScreen.cs\obj\Debug\WelcomeScreen.cs.csproj.CoreCompileInputs.cache
-D:\The Tech Academy\Basic C Sharp Projects\WelcomeScreen.cs\WelcomeScreen.cs\obj\Debug\WelcomeScreen.cs.exe
-D:\The Tech Academy\Basic C Sharp Projects\WelcomeScreen.cs\WelcomeScreen.cs\obj\Debug\WelcomeScreen.cs.pdb

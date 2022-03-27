@@ -1,6 +1,0 @@
-D:\The Tech Academy\Basic C Sharp Projects\DailyReportProgram\DailyReportProgram\bin\Debug\DailyReportProgram.exe.config
-D:\The Tech Academy\Basic C Sharp Projects\DailyReportProgram\DailyReportProgram\bin\Debug\DailyReportProgram.exe
-D:\The Tech Academy\Basic C Sharp Projects\DailyReportProgram\DailyReportProgram\bin\Debug\DailyReportProgram.pdb
-D:\The Tech Academy\Basic C Sharp Projects\DailyReportProgram\DailyReportProgram\obj\Debug\DailyReportProgram.csproj.CoreCompileInputs.cache
-D:\The Tech Academy\Basic C Sharp Projects\DailyReportProgram\DailyReportProgram\obj\Debug\DailyReportProgram.exe
-D:\The Tech Academy\Basic C Sharp Projects\DailyReportProgram\DailyReportProgram\obj\Debug\DailyReportProgram.pdb

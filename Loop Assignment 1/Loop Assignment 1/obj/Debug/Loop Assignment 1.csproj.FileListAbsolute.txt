@@ -1,7 +1,0 @@
-D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 1\Loop Assignment 1\bin\Debug\Loop Assignment 1.exe.config
-D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 1\Loop Assignment 1\bin\Debug\Loop Assignment 1.exe
-D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 1\Loop Assignment 1\bin\Debug\Loop Assignment 1.pdb
-D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 1\Loop Assignment 1\obj\Debug\Loop Assignment 1.csproj.AssemblyReference.cache
-D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 1\Loop Assignment 1\obj\Debug\Loop Assignment 1.csproj.CoreCompileInputs.cache
-D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 1\Loop Assignment 1\obj\Debug\Loop Assignment 1.exe
-D:\The Tech Academy\Basic C Sharp Projects\Loop Assignment 1\Loop Assignment 1\obj\Debug\Loop Assignment 1.pdb

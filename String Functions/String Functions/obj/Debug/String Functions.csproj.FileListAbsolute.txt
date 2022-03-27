@@ -1,6 +1,0 @@
-D:\The Tech Academy\Basic C Sharp Projects\String Functions\String Functions\bin\Debug\String Functions.exe.config
-D:\The Tech Academy\Basic C Sharp Projects\String Functions\String Functions\bin\Debug\String Functions.exe
-D:\The Tech Academy\Basic C Sharp Projects\String Functions\String Functions\bin\Debug\String Functions.pdb
-D:\The Tech Academy\Basic C Sharp Projects\String Functions\String Functions\obj\Debug\String Functions.csproj.CoreCompileInputs.cache
-D:\The Tech Academy\Basic C Sharp Projects\String Functions\String Functions\obj\Debug\String Functions.exe
-D:\The Tech Academy\Basic C Sharp Projects\String Functions\String Functions\obj\Debug\String Functions.pdb

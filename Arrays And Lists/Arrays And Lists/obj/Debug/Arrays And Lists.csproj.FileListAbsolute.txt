@@ -1,7 +1,0 @@
-D:\The Tech Academy\Basic C Sharp Projects\Arrays And Lists\Arrays And Lists\bin\Debug\Arrays And Lists.exe.config
-D:\The Tech Academy\Basic C Sharp Projects\Arrays And Lists\Arrays And Lists\bin\Debug\Arrays And Lists.exe
-D:\The Tech Academy\Basic C Sharp Projects\Arrays And Lists\Arrays And Lists\bin\Debug\Arrays And Lists.pdb
-D:\The Tech Academy\Basic C Sharp Projects\Arrays And Lists\Arrays And Lists\obj\Debug\Arrays And Lists.csproj.AssemblyReference.cache
-D:\The Tech Academy\Basic C Sharp Projects\Arrays And Lists\Arrays And Lists\obj\Debug\Arrays And Lists.csproj.CoreCompileInputs.cache
-D:\The Tech Academy\Basic C Sharp Projects\Arrays And Lists\Arrays And Lists\obj\Debug\Arrays And Lists.exe
-D:\The Tech Academy\Basic C Sharp Projects\Arrays And Lists\Arrays And Lists\obj\Debug\Arrays And Lists.pdb

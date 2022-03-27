@@ -1,6 +1,0 @@
-D:\The Tech Academy\Basic C Sharp Projects\MathInputBasicApp\MathInputBasicApp\bin\Debug\MathInputBasicApp.exe.config
-D:\The Tech Academy\Basic C Sharp Projects\MathInputBasicApp\MathInputBasicApp\bin\Debug\MathInputBasicApp.exe
-D:\The Tech Academy\Basic C Sharp Projects\MathInputBasicApp\MathInputBasicApp\bin\Debug\MathInputBasicApp.pdb
-D:\The Tech Academy\Basic C Sharp Projects\MathInputBasicApp\MathInputBasicApp\obj\Debug\MathInputBasicApp.csproj.CoreCompileInputs.cache
-D:\The Tech Academy\Basic C Sharp Projects\MathInputBasicApp\MathInputBasicApp\obj\Debug\MathInputBasicApp.exe
-D:\The Tech Academy\Basic C Sharp Projects\MathInputBasicApp\MathInputBasicApp\obj\Debug\MathInputBasicApp.pdb
