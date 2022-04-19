@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "38a84adb-e0d1-49fc-99bd-5238ddf1dbef": {
+      "ProjectGuid": "38a84adb-e0d1-49fc-99bd-5238ddf1dbef",
+      "DisplayName": "myConsoleProject.cs",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

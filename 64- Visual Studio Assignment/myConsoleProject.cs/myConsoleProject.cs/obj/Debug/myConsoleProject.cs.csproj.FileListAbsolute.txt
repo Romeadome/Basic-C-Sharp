@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\64- Visual Studio Assignment\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\64- Visual Studio Assignment\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+D:\Coding Projects Portfolio\Basic C Sharp\64- Visual Studio Assignment\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\64- Visual Studio Assignment\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\64- Visual Studio Assignment\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\64- Visual Studio Assignment\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\64- Visual Studio Assignment\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+D:\Coding Projects Portfolio\Basic C Sharp\64- Visual Studio Assignment\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb
