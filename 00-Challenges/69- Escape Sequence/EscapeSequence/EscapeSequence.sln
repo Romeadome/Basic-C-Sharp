@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeSequence", "EscapeSequence\EscapeSequence.csproj", "{06F9BFAC-6948-4514-83B1-6A32299818EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F9BFAC-6948-4514-83B1-6A32299818EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F9BFAC-6948-4514-83B1-6A32299818EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F9BFAC-6948-4514-83B1-6A32299818EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F9BFAC-6948-4514-83B1-6A32299818EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E82A3DA-464F-4F60-8B54-8716A7148240}
+	EndGlobalSection
+EndGlobal

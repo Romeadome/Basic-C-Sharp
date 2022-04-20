@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\76a - Daily Report\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\76a - Daily Report\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.exe
+D:\Coding Projects Portfolio\Basic C Sharp\76a - Daily Report\Student Daily Report\Student Daily Report\bin\Debug\Student Daily Report.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\76a - Daily Report\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\76a - Daily Report\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\76a - Daily Report\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\76a - Daily Report\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.exe
+D:\Coding Projects Portfolio\Basic C Sharp\76a - Daily Report\Student Daily Report\Student Daily Report\obj\Debug\Student Daily Report.pdb

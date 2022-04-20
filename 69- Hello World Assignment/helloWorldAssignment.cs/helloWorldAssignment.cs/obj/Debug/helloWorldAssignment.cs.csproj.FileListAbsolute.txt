@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\69- Hello World Assignment\helloWorldAssignment.cs\helloWorldAssignment.cs\bin\Debug\helloWorldAssignment.cs.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\69- Hello World Assignment\helloWorldAssignment.cs\helloWorldAssignment.cs\bin\Debug\helloWorldAssignment.cs.exe
+D:\Coding Projects Portfolio\Basic C Sharp\69- Hello World Assignment\helloWorldAssignment.cs\helloWorldAssignment.cs\bin\Debug\helloWorldAssignment.cs.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\69- Hello World Assignment\helloWorldAssignment.cs\helloWorldAssignment.cs\obj\Debug\helloWorldAssignment.cs.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\69- Hello World Assignment\helloWorldAssignment.cs\helloWorldAssignment.cs\obj\Debug\helloWorldAssignment.cs.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\69- Hello World Assignment\helloWorldAssignment.cs\helloWorldAssignment.cs\obj\Debug\helloWorldAssignment.cs.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\69- Hello World Assignment\helloWorldAssignment.cs\helloWorldAssignment.cs\obj\Debug\helloWorldAssignment.cs.exe
+D:\Coding Projects Portfolio\Basic C Sharp\69- Hello World Assignment\helloWorldAssignment.cs\helloWorldAssignment.cs\obj\Debug\helloWorldAssignment.cs.pdb

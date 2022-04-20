@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\70- Welcome Console Assignment\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\70- Welcome Console Assignment\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe
+D:\Coding Projects Portfolio\Basic C Sharp\70- Welcome Console Assignment\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\70- Welcome Console Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\70- Welcome Console Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\70- Welcome Console Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\70- Welcome Console Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.exe
+D:\Coding Projects Portfolio\Basic C Sharp\70- Welcome Console Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.pdb
