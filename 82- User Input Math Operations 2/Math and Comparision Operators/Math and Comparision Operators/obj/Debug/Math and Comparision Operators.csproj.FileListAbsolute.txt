@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\82- User Input Math Operations 2\Math and Comparision Operators\Math and Comparision Operators\bin\Debug\Math and Comparision Operators.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\82- User Input Math Operations 2\Math and Comparision Operators\Math and Comparision Operators\bin\Debug\Math and Comparision Operators.exe
+D:\Coding Projects Portfolio\Basic C Sharp\82- User Input Math Operations 2\Math and Comparision Operators\Math and Comparision Operators\bin\Debug\Math and Comparision Operators.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\82- User Input Math Operations 2\Math and Comparision Operators\Math and Comparision Operators\obj\Debug\Math and Comparision Operators.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\82- User Input Math Operations 2\Math and Comparision Operators\Math and Comparision Operators\obj\Debug\Math and Comparision Operators.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\82- User Input Math Operations 2\Math and Comparision Operators\Math and Comparision Operators\obj\Debug\Math and Comparision Operators.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\82- User Input Math Operations 2\Math and Comparision Operators\Math and Comparision Operators\obj\Debug\Math and Comparision Operators.exe
+D:\Coding Projects Portfolio\Basic C Sharp\82- User Input Math Operations 2\Math and Comparision Operators\Math and Comparision Operators\obj\Debug\Math and Comparision Operators.pdb

@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\78- Math Data Types\Math Data Types\Math Data Types\bin\Debug\Math Data Types.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\78- Math Data Types\Math Data Types\Math Data Types\bin\Debug\Math Data Types.exe
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\78- Math Data Types\Math Data Types\Math Data Types\bin\Debug\Math Data Types.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\78- Math Data Types\Math Data Types\Math Data Types\obj\Debug\Math Data Types.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\78- Math Data Types\Math Data Types\Math Data Types\obj\Debug\Math Data Types.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\78- Math Data Types\Math Data Types\Math Data Types\obj\Debug\Math Data Types.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\78- Math Data Types\Math Data Types\Math Data Types\obj\Debug\Math Data Types.exe
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\78- Math Data Types\Math Data Types\Math Data Types\obj\Debug\Math Data Types.pdb

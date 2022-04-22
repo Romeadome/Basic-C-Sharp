@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\81- User Input Math Operations\User Input Math Operations\User Input Math Operations\bin\Debug\User Input Math Operations.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\81- User Input Math Operations\User Input Math Operations\User Input Math Operations\bin\Debug\User Input Math Operations.exe
+D:\Coding Projects Portfolio\Basic C Sharp\81- User Input Math Operations\User Input Math Operations\User Input Math Operations\bin\Debug\User Input Math Operations.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\81- User Input Math Operations\User Input Math Operations\User Input Math Operations\obj\Debug\User Input Math Operations.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\81- User Input Math Operations\User Input Math Operations\User Input Math Operations\obj\Debug\User Input Math Operations.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\81- User Input Math Operations\User Input Math Operations\User Input Math Operations\obj\Debug\User Input Math Operations.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\81- User Input Math Operations\User Input Math Operations\User Input Math Operations\obj\Debug\User Input Math Operations.exe
+D:\Coding Projects Portfolio\Basic C Sharp\81- User Input Math Operations\User Input Math Operations\User Input Math Operations\obj\Debug\User Input Math Operations.pdb

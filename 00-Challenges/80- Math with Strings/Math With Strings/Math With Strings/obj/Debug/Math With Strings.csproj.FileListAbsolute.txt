@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\80- Math with Strings\Math With Strings\Math With Strings\bin\Debug\Math With Strings.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\80- Math with Strings\Math With Strings\Math With Strings\bin\Debug\Math With Strings.exe
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\80- Math with Strings\Math With Strings\Math With Strings\bin\Debug\Math With Strings.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\80- Math with Strings\Math With Strings\Math With Strings\obj\Debug\Math With Strings.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\80- Math with Strings\Math With Strings\Math With Strings\obj\Debug\Math With Strings.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\80- Math with Strings\Math With Strings\Math With Strings\obj\Debug\Math With Strings.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\80- Math with Strings\Math With Strings\Math With Strings\obj\Debug\Math With Strings.exe
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\80- Math with Strings\Math With Strings\Math With Strings\obj\Debug\Math With Strings.pdb
