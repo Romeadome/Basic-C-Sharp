@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\86- Boolean Logic Assignment\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\86- Boolean Logic Assignment\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\86- Boolean Logic Assignment\Boolean Logic Assignment\Boolean Logic Assignment\bin\Debug\Boolean Logic Assignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\86- Boolean Logic Assignment\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\86- Boolean Logic Assignment\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\86- Boolean Logic Assignment\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\86- Boolean Logic Assignment\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\86- Boolean Logic Assignment\Boolean Logic Assignment\Boolean Logic Assignment\obj\Debug\Boolean Logic Assignment.pdb

@@ -37,7 +37,11 @@ namespace Math_and_Comparision_Operators
 
             decimal annualSal1 = (rate1 * workHours1) * 52;
             decimal annualSal2 = (rate2 * workHours1) * 52;
-
+            /*
+             The number after the C and N indicates upto how many decimals you need string formatted.
+             C formats the number as a currency string, which includes a currency symbol, default symbol is "$', 
+             you can use Culture Info as shown above for any other currency type.
+            */
             Console.WriteLine("Annual salary of Person 1:\n{0}\n", annualSal1.ToString("C2"));
             Console.WriteLine("Annual salary of Person 1:\n{0}\n", annualSal2.ToString("C2"));
 

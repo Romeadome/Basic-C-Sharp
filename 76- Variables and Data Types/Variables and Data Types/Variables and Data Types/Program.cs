@@ -37,6 +37,11 @@ c. Decimal (128-bits)
     The ushort data type is the 16-bit version of uint.
 
 •	string: represents a set of 0 or more Unicode characters. Strings are delimited by double-quotation marks.
+
+•   byte: represents an integer between 0 and 255.
+ 
+•	sbyte (signed byte): represents an integer between -128 and 127.
+
  
 CASTING 
 

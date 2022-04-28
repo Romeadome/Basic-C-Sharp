@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\93- Ternary Operator\Ternary Operator\Ternary Operator\bin\Debug\Ternary Operator.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\93- Ternary Operator\Ternary Operator\Ternary Operator\bin\Debug\Ternary Operator.exe
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\93- Ternary Operator\Ternary Operator\Ternary Operator\bin\Debug\Ternary Operator.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\93- Ternary Operator\Ternary Operator\Ternary Operator\obj\Debug\Ternary Operator.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\93- Ternary Operator\Ternary Operator\Ternary Operator\obj\Debug\Ternary Operator.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\93- Ternary Operator\Ternary Operator\Ternary Operator\obj\Debug\Ternary Operator.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\93- Ternary Operator\Ternary Operator\Ternary Operator\obj\Debug\Ternary Operator.exe
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\93- Ternary Operator\Ternary Operator\Ternary Operator\obj\Debug\Ternary Operator.pdb
