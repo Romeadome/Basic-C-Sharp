@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\99- Arrays and Lists\Arrays and Lists Part 2\Arrays and Lists Part 2\bin\Debug\Arrays and Lists Part 2.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\99- Arrays and Lists\Arrays and Lists Part 2\Arrays and Lists Part 2\bin\Debug\Arrays and Lists Part 2.exe
+D:\Coding Projects Portfolio\Basic C Sharp\99- Arrays and Lists\Arrays and Lists Part 2\Arrays and Lists Part 2\bin\Debug\Arrays and Lists Part 2.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\99- Arrays and Lists\Arrays and Lists Part 2\Arrays and Lists Part 2\obj\Debug\Arrays and Lists Part 2.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\99- Arrays and Lists\Arrays and Lists Part 2\Arrays and Lists Part 2\obj\Debug\Arrays and Lists Part 2.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\99- Arrays and Lists\Arrays and Lists Part 2\Arrays and Lists Part 2\obj\Debug\Arrays and Lists Part 2.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\99- Arrays and Lists\Arrays and Lists Part 2\Arrays and Lists Part 2\obj\Debug\Arrays and Lists Part 2.exe
+D:\Coding Projects Portfolio\Basic C Sharp\99- Arrays and Lists\Arrays and Lists Part 2\Arrays and Lists Part 2\obj\Debug\Arrays and Lists Part 2.pdb

@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\100- Array Assignment\Array Assignment\Array Assignment\bin\Debug\Array Assignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\100- Array Assignment\Array Assignment\Array Assignment\bin\Debug\Array Assignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\100- Array Assignment\Array Assignment\Array Assignment\bin\Debug\Array Assignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\100- Array Assignment\Array Assignment\Array Assignment\obj\Debug\Array Assignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\100- Array Assignment\Array Assignment\Array Assignment\obj\Debug\Array Assignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\100- Array Assignment\Array Assignment\Array Assignment\obj\Debug\Array Assignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\100- Array Assignment\Array Assignment\Array Assignment\obj\Debug\Array Assignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\100- Array Assignment\Array Assignment\Array Assignment\obj\Debug\Array Assignment.pdb

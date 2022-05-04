@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\98- Strings\String Functions\String Functions\bin\Debug\String Functions.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\98- Strings\String Functions\String Functions\bin\Debug\String Functions.exe
+D:\Coding Projects Portfolio\Basic C Sharp\98- Strings\String Functions\String Functions\bin\Debug\String Functions.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\98- Strings\String Functions\String Functions\obj\Debug\String Functions.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\98- Strings\String Functions\String Functions\obj\Debug\String Functions.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\98- Strings\String Functions\String Functions\obj\Debug\String Functions.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\98- Strings\String Functions\String Functions\obj\Debug\String Functions.exe
+D:\Coding Projects Portfolio\Basic C Sharp\98- Strings\String Functions\String Functions\obj\Debug\String Functions.pdb
