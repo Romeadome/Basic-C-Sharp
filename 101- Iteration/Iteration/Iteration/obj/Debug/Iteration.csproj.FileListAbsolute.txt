@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration\Iteration\Iteration\bin\Debug\Iteration.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration\Iteration\Iteration\bin\Debug\Iteration.exe
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration\Iteration\Iteration\bin\Debug\Iteration.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration\Iteration\Iteration\obj\Debug\Iteration.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration\Iteration\Iteration\obj\Debug\Iteration.exe
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration\Iteration\Iteration\obj\Debug\Iteration.pdb
