@@ -30,7 +30,13 @@ namespace Iteration_Part_1
             Console.WriteLine("Be a part of my buzzlebop poem! \nEnter a singular noun that begins with the letter \"B\":");
             string input = Console.ReadLine();
             for (int i = 0; i < poem.Length; i++)
-                Console.WriteLine(poem[i] + input + "s.");
+            {
+                poem[i] = poem[i] + input + "s.";
+            }
+            for (int i = 0; i < poem.Length; i++)
+            {
+                Console.WriteLine("\n" + poem[i]);
+            }
             Console.ReadLine();                   
         }
     }

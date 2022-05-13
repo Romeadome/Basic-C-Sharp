@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration Six Part Assignment\Iteration Part 5\Iteration Part 5\bin\Debug\Iteration Part 5.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration Six Part Assignment\Iteration Part 5\Iteration Part 5\bin\Debug\Iteration Part 5.exe
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration Six Part Assignment\Iteration Part 5\Iteration Part 5\bin\Debug\Iteration Part 5.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration Six Part Assignment\Iteration Part 5\Iteration Part 5\obj\Debug\Iteration Part 5.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration Six Part Assignment\Iteration Part 5\Iteration Part 5\obj\Debug\Iteration Part 5.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration Six Part Assignment\Iteration Part 5\Iteration Part 5\obj\Debug\Iteration Part 5.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration Six Part Assignment\Iteration Part 5\Iteration Part 5\obj\Debug\Iteration Part 5.exe
+D:\Coding Projects Portfolio\Basic C Sharp\101- Iteration Six Part Assignment\Iteration Part 5\Iteration Part 5\obj\Debug\Iteration Part 5.pdb

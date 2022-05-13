@@ -30,16 +30,17 @@ namespace Iteration_Part_4
             List<string> fruits = new List<string>() { "Apples", "Oranges", "Pears", "Bananas", "Strawberries", "Peaches"};
             Console.WriteLine("Type a name of a fruit");
             string fruitInput = Console.ReadLine();
-            foreach(string fruit in fruits)
+  
+            for (int i = 0; i < fruits.Count; i++)
             {
-                if (fruitInput.ToLower() == fruit.ToLower())
+                if (fruitInput.ToLower() == fruits[i].ToLower())
                 {
-                    Console.WriteLine("Your fruit \"{0}\" was in the list! It is at index {1}.", fruitInput, fruits.IndexOf(fruit));
+                    Console.WriteLine("\"{0}\" was found in the list! Location: Index {1}", fruitInput, i);
                     break;
                 }
-                else if (fruitInput != fruit && fruits.Count-1 == fruits.IndexOf(fruit))
+                if (!fruits.Contains(fruitInput) && i == fruits.Count-1)
                 {
-                    Console.WriteLine("Your fruit of \"{0}\" was not in the list! Please try again later.", fruitInput);
+                    Console.WriteLine("Sorry, \"{0}\" was not in the list. This program will now close.", fruitInput);
                 }
             }
             Console.ReadLine();
