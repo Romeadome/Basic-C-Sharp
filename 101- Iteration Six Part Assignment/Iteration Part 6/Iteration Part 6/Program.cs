@@ -17,25 +17,22 @@ namespace Iteration_Part_6
         static void Main(string[] args)
         {
             List<string> animals = new List<string>() { "Cat", "Dog", "Ferret", "Cat", "Turtle", "Pig", "Snake", "Bird", "Hamster", "Horse", "Dog" };
-
+            List<string> duplicates = new List<string>();
+            int i = 1;
             foreach (string animal in animals)
             {
-                int count = 0;
-                bool hasAppeared = false;
-                for (int i = 0; i < animals.Count; i++)
+                if (duplicates.Contains(animal))
                 {
-                    if (animal == animals[i])
-                    {
-                        Console.WriteLine(animal);
-                        hasAppeared = true;
-                        count++;
-                    }
-                    if (hasAppeared && count > 1)
-                    {
-                        Console.WriteLine("{0} has already appeared on the list", animal);
-                        break;
-                    }
+                    Console.WriteLine(i + ". " + animal);
+                    Console.WriteLine(animal + " already appeared in the list");
                 }
+                else
+                {
+                    Console.WriteLine(i + ". " + animal);
+                    duplicates.Add(animal);
+                }
+                i++;
+    
             }
             Console.ReadLine();
         }
