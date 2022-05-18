@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\104-Exception Handling Assignment\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\104-Exception Handling Assignment\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\104-Exception Handling Assignment\Exception Handling Assignment\Exception Handling Assignment\bin\Debug\Exception Handling Assignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\104-Exception Handling Assignment\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\104-Exception Handling Assignment\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\104-Exception Handling Assignment\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\104-Exception Handling Assignment\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\104-Exception Handling Assignment\Exception Handling Assignment\Exception Handling Assignment\obj\Debug\Exception Handling Assignment.pdb

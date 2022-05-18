@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\105- Classes and Objects (TwentyOneGame)\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\105- Classes and Objects (TwentyOneGame)\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+D:\Coding Projects Portfolio\Basic C Sharp\105- Classes and Objects (TwentyOneGame)\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\105- Classes and Objects (TwentyOneGame)\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\105- Classes and Objects (TwentyOneGame)\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\105- Classes and Objects (TwentyOneGame)\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\105- Classes and Objects (TwentyOneGame)\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+D:\Coding Projects Portfolio\Basic C Sharp\105- Classes and Objects (TwentyOneGame)\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb

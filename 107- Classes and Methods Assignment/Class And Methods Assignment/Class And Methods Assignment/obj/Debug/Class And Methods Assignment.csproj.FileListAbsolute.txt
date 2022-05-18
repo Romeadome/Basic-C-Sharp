@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\107- Classes and Methods Assignment\Class And Methods Assignment\Class And Methods Assignment\bin\Debug\Class And Methods Assignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\107- Classes and Methods Assignment\Class And Methods Assignment\Class And Methods Assignment\bin\Debug\Class And Methods Assignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\107- Classes and Methods Assignment\Class And Methods Assignment\Class And Methods Assignment\bin\Debug\Class And Methods Assignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\107- Classes and Methods Assignment\Class And Methods Assignment\Class And Methods Assignment\obj\Debug\Class And Methods Assignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\107- Classes and Methods Assignment\Class And Methods Assignment\Class And Methods Assignment\obj\Debug\Class And Methods Assignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\107- Classes and Methods Assignment\Class And Methods Assignment\Class And Methods Assignment\obj\Debug\Class And Methods Assignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\107- Classes and Methods Assignment\Class And Methods Assignment\Class And Methods Assignment\obj\Debug\Class And Methods Assignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\107- Classes and Methods Assignment\Class And Methods Assignment\Class And Methods Assignment\obj\Debug\Class And Methods Assignment.pdb
