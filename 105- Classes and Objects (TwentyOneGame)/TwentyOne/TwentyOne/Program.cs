@@ -10,49 +10,28 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Roman", "Phil", "Joe" };
+            game.ListPlayers();
+            game.Play();
+            Console.ReadLine();
+
+
             Deck deck = new Deck();
-            //deck = Shuffle(deck);
-            int timesSHuffled = 0;
-            deck = Shuffle(deck,out timesSHuffled, 5);
+            deck.Shuffle(3);
 
-            //Named parameter below
-            //deck = Shuffle(deck: deck,times: 10);
 
-            //deck.Cards = new List<Card>();
-            //Card cardOne = new Card();
-            //cardOne.Face = "Queen";
-            //cardOne.Suit = "Spades";
-            //deck.Cards.Add(cardOne);
             foreach (Card card in deck.Cards)
             {
-                Console.WriteLine("{0} of {1}",card.Face, card.Suit);
+                Console.WriteLine(card.Face + " of " + card.Suit);
             }
             Console.WriteLine(deck.Cards.Count);
-            Console.WriteLine("Times shuffled {0}", timesSHuffled);
             Console.ReadLine();
         }
+            
+        //Named parameter example below
+        //deck = Shuffle(deck: deck,times: 10);
 
-        //Shuffle Method for Deck
-        public static Deck Shuffle(Deck deck , out int timesShuffled, int times = 1)
-        {
-            timesShuffled = 0;
-            for (int i = 0; i < times; i++)
-            {
-                timesShuffled++;
-                List<Card> TempList = new List<Card>();
-                Random random = new Random();
-
-                while (deck.Cards.Count > 0)
-                {
-                    int randomIndex = random.Next(0, deck.Cards.Count);
-                    TempList.Add(deck.Cards[randomIndex]);
-                    deck.Cards.RemoveAt(randomIndex);
-                }
-                deck.Cards = TempList;    
-            }
-            return deck;
-
-        }
         //OVERLOADED SHUFFLE METHOD
         //public static Deck Shuffle(Deck deck, int times)
         //{

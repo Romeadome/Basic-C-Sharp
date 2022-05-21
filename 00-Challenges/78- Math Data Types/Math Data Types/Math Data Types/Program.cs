@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 4. Divide two numbers and display the output in the console.
 */
 
-namespace Math_Data_Types
+namespace MathDataTypes
 {
     internal class Program
     {
