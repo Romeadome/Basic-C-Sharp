@@ -6,13 +6,17 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Game
+    public abstract class Game
     {
         public List<string> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
-        public void ListPlayers()
+        public abstract void Play();
+ 
+        //List Players Method
+        //virtual method inside of an abstract class, it get inherited from the inheriting class, but Persohas the ability to override
+        public virtual void ListPlayers()
         {
             foreach (string player in Players)
             {

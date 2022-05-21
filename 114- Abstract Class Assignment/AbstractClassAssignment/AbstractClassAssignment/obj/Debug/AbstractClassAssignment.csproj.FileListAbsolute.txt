@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\114- Abstract Class Assignment\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\114- Abstract Class Assignment\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\114- Abstract Class Assignment\AbstractClassAssignment\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\114- Abstract Class Assignment\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\114- Abstract Class Assignment\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\114- Abstract Class Assignment\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\114- Abstract Class Assignment\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\114- Abstract Class Assignment\AbstractClassAssignment\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb
