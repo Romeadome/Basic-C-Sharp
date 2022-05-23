@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Deck
+    internal class Deck
     {
         //Constructor
         //This method is called as soon as an  Deck object is created.

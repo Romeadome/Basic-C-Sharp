@@ -6,13 +6,8 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    internal class Card
+    internal interface IWalkAway
     {
-        public Card()
-        {
-   
-        }
-        public string Suit { get; set; }
-        public string Face { get; set; }
+         void WalkAway(Player player);
     }
 }

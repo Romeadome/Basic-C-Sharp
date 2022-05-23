@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\115- Interface Console Assignment\IConsoleAssignment\IConsoleAssignment\bin\Debug\IConsoleAssignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\115- Interface Console Assignment\IConsoleAssignment\IConsoleAssignment\bin\Debug\IConsoleAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\115- Interface Console Assignment\IConsoleAssignment\IConsoleAssignment\bin\Debug\IConsoleAssignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\115- Interface Console Assignment\IConsoleAssignment\IConsoleAssignment\obj\Debug\IConsoleAssignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\115- Interface Console Assignment\IConsoleAssignment\IConsoleAssignment\obj\Debug\IConsoleAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\115- Interface Console Assignment\IConsoleAssignment\IConsoleAssignment\obj\Debug\IConsoleAssignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\115- Interface Console Assignment\IConsoleAssignment\IConsoleAssignment\obj\Debug\IConsoleAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\115- Interface Console Assignment\IConsoleAssignment\IConsoleAssignment\obj\Debug\IConsoleAssignment.pdb
