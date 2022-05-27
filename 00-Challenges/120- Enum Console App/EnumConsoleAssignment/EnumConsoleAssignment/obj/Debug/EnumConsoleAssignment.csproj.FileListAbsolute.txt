@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\120- Enum Console App\EnumConsoleAssignment\EnumConsoleAssignment\bin\Debug\EnumConsoleAssignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\120- Enum Console App\EnumConsoleAssignment\EnumConsoleAssignment\bin\Debug\EnumConsoleAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\120- Enum Console App\EnumConsoleAssignment\EnumConsoleAssignment\bin\Debug\EnumConsoleAssignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\120- Enum Console App\EnumConsoleAssignment\EnumConsoleAssignment\obj\Debug\EnumConsoleAssignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\120- Enum Console App\EnumConsoleAssignment\EnumConsoleAssignment\obj\Debug\EnumConsoleAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\120- Enum Console App\EnumConsoleAssignment\EnumConsoleAssignment\obj\Debug\EnumConsoleAssignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\120- Enum Console App\EnumConsoleAssignment\EnumConsoleAssignment\obj\Debug\EnumConsoleAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\120- Enum Console App\EnumConsoleAssignment\EnumConsoleAssignment\obj\Debug\EnumConsoleAssignment.pdb

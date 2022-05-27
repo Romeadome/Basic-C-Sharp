@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\118- Generic Data Types\GenericsConsoleAssignment\GenericsConsoleAssignment\bin\Debug\GenericsConsoleAssignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\118- Generic Data Types\GenericsConsoleAssignment\GenericsConsoleAssignment\bin\Debug\GenericsConsoleAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\118- Generic Data Types\GenericsConsoleAssignment\GenericsConsoleAssignment\bin\Debug\GenericsConsoleAssignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\118- Generic Data Types\GenericsConsoleAssignment\GenericsConsoleAssignment\obj\Debug\GenericsConsoleAssignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\118- Generic Data Types\GenericsConsoleAssignment\GenericsConsoleAssignment\obj\Debug\GenericsConsoleAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\118- Generic Data Types\GenericsConsoleAssignment\GenericsConsoleAssignment\obj\Debug\GenericsConsoleAssignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\118- Generic Data Types\GenericsConsoleAssignment\GenericsConsoleAssignment\obj\Debug\GenericsConsoleAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\118- Generic Data Types\GenericsConsoleAssignment\GenericsConsoleAssignment\obj\Debug\GenericsConsoleAssignment.pdb
