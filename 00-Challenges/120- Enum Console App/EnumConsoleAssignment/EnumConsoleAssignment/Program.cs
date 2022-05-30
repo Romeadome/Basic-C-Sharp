@@ -18,44 +18,13 @@ namespace EnumConsoleAssignment
     {
         static void Main(string[] args)
         {
-            
-            try
-            {
-                
+            WeekDay weekDay = new WeekDay();
             Console.WriteLine("Enter the current day of the week:");
             string input = Console.ReadLine();
-                if (input.Length > 1)
-                {
-                    input= char.ToUpper(input[0]) + input.Substring(1);
-                }
-            DaysOfTheWeek dayOfWeek = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), input);
-                Console.WriteLine("The current day of the week is {0}", dayOfWeek);
-
-                
-            }
-            catch(Exception ex)
-            {
-                Console.WriteLine("Please enter an actual day of the week");
-                Console.WriteLine(ex.Message);
-                Console.WriteLine("This program will now close.");
-            }
-            finally
-            {
-                
-                Console.ReadLine();
-            }
+            weekDay.DayOfWeek(input);
+           
         }
 
-public enum DaysOfTheWeek
-        {
-            Monday,
-            Tuesday,
-            Wednesday,
-            Thursday,
-            Friday,
-            Saturday,
-            Sunday
 
-        }
     }
 }
