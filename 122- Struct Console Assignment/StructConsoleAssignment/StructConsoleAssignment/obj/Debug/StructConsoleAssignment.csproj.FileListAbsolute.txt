@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\122- Struct Console Assignment\StructConsoleAssignment\StructConsoleAssignment\bin\Debug\StructConsoleAssignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\122- Struct Console Assignment\StructConsoleAssignment\StructConsoleAssignment\bin\Debug\StructConsoleAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\122- Struct Console Assignment\StructConsoleAssignment\StructConsoleAssignment\bin\Debug\StructConsoleAssignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\122- Struct Console Assignment\StructConsoleAssignment\StructConsoleAssignment\obj\Debug\StructConsoleAssignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\122- Struct Console Assignment\StructConsoleAssignment\StructConsoleAssignment\obj\Debug\StructConsoleAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\122- Struct Console Assignment\StructConsoleAssignment\StructConsoleAssignment\obj\Debug\StructConsoleAssignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\122- Struct Console Assignment\StructConsoleAssignment\StructConsoleAssignment\obj\Debug\StructConsoleAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\122- Struct Console Assignment\StructConsoleAssignment\StructConsoleAssignment\obj\Debug\StructConsoleAssignment.pdb
