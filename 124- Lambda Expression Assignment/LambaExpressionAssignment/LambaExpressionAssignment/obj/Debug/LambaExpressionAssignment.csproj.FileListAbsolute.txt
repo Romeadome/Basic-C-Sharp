@@ -1,0 +1,8 @@
+D:\Coding Projects Portfolio\Basic C Sharp\124- Lambda Expression Assignment\LambaExpressionAssignment\LambaExpressionAssignment\bin\Debug\LambaExpressionAssignment.exe.config
+D:\Coding Projects Portfolio\Basic C Sharp\124- Lambda Expression Assignment\LambaExpressionAssignment\LambaExpressionAssignment\bin\Debug\LambaExpressionAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\124- Lambda Expression Assignment\LambaExpressionAssignment\LambaExpressionAssignment\bin\Debug\LambaExpressionAssignment.pdb
+D:\Coding Projects Portfolio\Basic C Sharp\124- Lambda Expression Assignment\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.csproj.AssemblyReference.cache
+D:\Coding Projects Portfolio\Basic C Sharp\124- Lambda Expression Assignment\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.csproj.SuggestedBindingRedirects.cache
+D:\Coding Projects Portfolio\Basic C Sharp\124- Lambda Expression Assignment\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.csproj.CoreCompileInputs.cache
+D:\Coding Projects Portfolio\Basic C Sharp\124- Lambda Expression Assignment\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.exe
+D:\Coding Projects Portfolio\Basic C Sharp\124- Lambda Expression Assignment\LambaExpressionAssignment\LambaExpressionAssignment\obj\Debug\LambaExpressionAssignment.pdb
