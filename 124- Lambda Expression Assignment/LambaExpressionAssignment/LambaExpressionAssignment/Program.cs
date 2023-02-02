@@ -35,19 +35,22 @@ namespace LambaExpressionAssignment
 
             //Using a foreach loop to create a list of all employees with the first name "Joe"
             Console.WriteLine("Employees with the name starting with \"Joe\"....");
+            List<Employee> newEmployeeList = new List<Employee>();
             foreach (Employee employee in employees)
             {                       
                 
                 if (employee.FirstName == "Joe")
                 {
-
-                    Console.WriteLine(employee.FirstName + employee.LastName);
+                    newEmployeeList.Add(employee);
                 }
+            }
+            foreach(Employee employee in newEmployeeList)
+            {
+                Console.WriteLine(employee.FirstName + employee.LastName);
             }
 
             //Performing a lambda expression to make a list of all employees with an ID greater than 5
             List<Employee> newList = employees.Where(x => x.EmployeeID > 5).ToList();
-            Console.WriteLine(newList);
             Console.WriteLine("\nEmployees ID's greater than 5....");
             foreach (Employee employee in newList)
             {
