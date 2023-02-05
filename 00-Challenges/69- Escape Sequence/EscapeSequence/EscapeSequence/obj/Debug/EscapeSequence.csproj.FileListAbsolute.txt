@@ -6,3 +6,11 @@ D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\Esc
 D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\obj\Debug\EscapeSequence.csproj.CoreCompileInputs.cache
 D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\obj\Debug\EscapeSequence.exe
 D:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\obj\Debug\EscapeSequence.pdb
+E:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\bin\Debug\EscapeSequence.exe.config
+E:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\bin\Debug\EscapeSequence.exe
+E:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\bin\Debug\EscapeSequence.pdb
+E:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\obj\Debug\EscapeSequence.csproj.AssemblyReference.cache
+E:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\obj\Debug\EscapeSequence.csproj.SuggestedBindingRedirects.cache
+E:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\obj\Debug\EscapeSequence.csproj.CoreCompileInputs.cache
+E:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\obj\Debug\EscapeSequence.exe
+E:\Coding Projects Portfolio\Basic C Sharp\00-Challenges\69- Escape Sequence\EscapeSequence\EscapeSequence\obj\Debug\EscapeSequence.pdb

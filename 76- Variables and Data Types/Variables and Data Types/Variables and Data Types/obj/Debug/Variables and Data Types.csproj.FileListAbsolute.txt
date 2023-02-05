@@ -6,3 +6,11 @@ D:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variable
 D:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\bin\Debug\Variables and Data Types.pdb
 D:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.exe
 D:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.pdb
+E:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\bin\Debug\Variables and Data Types.exe.config
+E:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\bin\Debug\Variables and Data Types.exe
+E:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\bin\Debug\Variables and Data Types.pdb
+E:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.csproj.AssemblyReference.cache
+E:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.csproj.SuggestedBindingRedirects.cache
+E:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.csproj.CoreCompileInputs.cache
+E:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.exe
+E:\Coding Projects Portfolio\Basic C Sharp\76- Variables and Data Types\Variables and Data Types\Variables and Data Types\obj\Debug\Variables and Data Types.pdb

@@ -31,15 +31,15 @@ namespace Method_Overloading
 
             Console.WriteLine("Input an integer:");
             int input = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(mathOperation.Operation(input));
+            Console.WriteLine("{0} minus 69 equals {1}\n", input, mathOperation.Operation(input));
 
-            Console.WriteLine("Input a decimal:");
+            Console.WriteLine("\nInput a decimal:");
             decimal input2 = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine(mathOperation.Operation(input2));
+            Console.WriteLine("{0} plus 4321 equals {1}\n",input2, mathOperation.Operation(input2));
 
-            Console.WriteLine("Input a string:");
+            Console.WriteLine("\nInput a string:");
             string input3 = Console.ReadLine();
-            Console.WriteLine(mathOperation.Operation(input3));
+            Console.WriteLine("{0} times 5 equals {1}", input3,mathOperation.Operation(input3));
 
             Console.ReadLine();
         }

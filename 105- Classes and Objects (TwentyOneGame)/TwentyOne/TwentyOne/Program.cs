@@ -6,27 +6,54 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the Grand Rome Hotel and Casino. Let's start by telling me your name.");
-            string playerName = Console.ReadLine();
-            Console.WriteLine("And how much money did you bring today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Hello {0}, would you like to join a game of 21 right now?", playerName);
-            string answer = Console.ReadLine().ToLower();
-            if (answer == "yes" || answer == "yeah" || answer == "ya" || answer == "sure" || answer == "yup" || answer == "y" || answer == "yea" || answer == "yee")
+            //you can use a named parameter (times: 3) or just input the int value = (3)
+            Deck deck = new Deck();
+            int timesShuffled = 0;
+            deck = Shuffle(deck,out timesShuffled, 12);
+            foreach (Card card in deck.Cards)
             {
-                Player player = new Player(playerName, bank);
-                Game game = new TwentyOneGame();
-                game += player;
-                player.isActivelyPlaying = true;
-                while(player.isActivelyPlaying && player.Balance > 0)
-                {
-                    game.Play();
-                }
+            Console.WriteLine(card.Face + " of " + card.Suit);
+            
             }
+            Console.WriteLine("Total Number of cards: {0}",deck.Cards.Count);
+            Console.WriteLine("Times shuffled: {0}",timesShuffled);
+            Console.ReadLine(); 
+
         }
+
+        //create a static method/function that takes a deck parameter and returns a shuffled deck from the templist variable.
+        public static Deck Shuffle(Deck deck , out int timesShuffled, int times = 1)
+        {
+            timesShuffled= 0;
+            for (int i = 0; i < times; i++)
+            {   
+                timesShuffled++;
+                List<Card> shuffledDeck = new List<Card>();
+                Random random = new Random();
+
+                while (deck.Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, deck.Cards.Count);
+                    shuffledDeck.Add(deck.Cards[randomIndex]);
+                    deck.Cards.RemoveAt(randomIndex);
+
+                }
+                deck.Cards = shuffledDeck;
+            }  
+            return deck;
+
+        }
+        ////overloaded method
+        //public static Deck Shuffle(Deck deck, int times)
+        //{
+        //    for (int i = 0; i < times; i++) {
+        //        deck = Shuffle(deck);
+        //    }
+        //    return deck;
+        //}
     }
 }

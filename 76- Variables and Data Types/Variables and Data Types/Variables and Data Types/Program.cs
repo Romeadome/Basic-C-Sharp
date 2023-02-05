@@ -55,7 +55,7 @@ namespace Variables_And_Data_Types
     {
         static void Main(string[] args)
         {
-            // ctrl + k + c to comment
+            //ctrl + k + c to comment
             // ctrl + k + u to uncomment
             //Console.WriteLine("What is your name?");
             //string yourName = Console.ReadLine();
