@@ -6,3 +6,11 @@ D:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters\
 D:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters\Optional Parameters\Optional Parameters\obj\Debug\Optional Parameters.csproj.CoreCompileInputs.cache
 D:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters\Optional Parameters\Optional Parameters\obj\Debug\Optional Parameters.exe
 D:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters\Optional Parameters\Optional Parameters\obj\Debug\Optional Parameters.pdb
+E:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters Assignment\Optional Parameters\Optional Parameters\bin\Debug\Optional Parameters.exe.config
+E:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters Assignment\Optional Parameters\Optional Parameters\bin\Debug\Optional Parameters.exe
+E:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters Assignment\Optional Parameters\Optional Parameters\bin\Debug\Optional Parameters.pdb
+E:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters Assignment\Optional Parameters\Optional Parameters\obj\Debug\Optional Parameters.csproj.AssemblyReference.cache
+E:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters Assignment\Optional Parameters\Optional Parameters\obj\Debug\Optional Parameters.csproj.SuggestedBindingRedirects.cache
+E:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters Assignment\Optional Parameters\Optional Parameters\obj\Debug\Optional Parameters.csproj.CoreCompileInputs.cache
+E:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters Assignment\Optional Parameters\Optional Parameters\obj\Debug\Optional Parameters.exe
+E:\Coding Projects Portfolio\Basic C Sharp\109- Method With Optional Parameters Assignment\Optional Parameters\Optional Parameters\obj\Debug\Optional Parameters.pdb

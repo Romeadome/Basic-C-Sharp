@@ -21,24 +21,24 @@ namespace Final_Method_Assignment
         
 
         static void Main(string[] args)
-        {
+        {   //instantiate the mathOperation class
             MathOperation mathOperation = new MathOperation();
             //output variables from static method
-            int num1;
-            int result;
 
-            Console.WriteLine("Enter a number to be divided by 2");
+
+            Console.Write("Enter a number to be divided by 2: ");
             int input = Convert.ToInt32(Console.ReadLine());
             //Takes input and divides by 2
             mathOperation.DivideBy2(input);
 
             //Overloaded method that takes 2 inputs and divides by 2
-            mathOperation.DivideBy2(input,input);
+            mathOperation.DivideBy2(input, input+5);
             
 
-
+            int num1;
+            int result;
             Add(out num1, out result);
-           
+           Console.WriteLine("{0} plus its self equals {1}",num1, result);
             Console.ReadLine();
         }
 
@@ -47,7 +47,7 @@ namespace Final_Method_Assignment
         {
             num1 = 45;
             result = num1 + num1;
-            Console.WriteLine("{0} plus its self equals {1}",num1, result);
+            
         }
 
     }

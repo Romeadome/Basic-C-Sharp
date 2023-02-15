@@ -8,6 +8,6 @@ namespace InheritPerson
 {
     internal class Employee : Person
     {
-        int Id { get; set; }
+        public int Id { get; set; }
     }
 }

@@ -6,3 +6,11 @@ D:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPe
 D:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\obj\Debug\InheritPerson.csproj.CoreCompileInputs.cache
 D:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\obj\Debug\InheritPerson.exe
 D:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\obj\Debug\InheritPerson.pdb
+E:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\bin\Debug\InheritPerson.exe.config
+E:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\bin\Debug\InheritPerson.exe
+E:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\bin\Debug\InheritPerson.pdb
+E:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\obj\Debug\InheritPerson.csproj.AssemblyReference.cache
+E:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\obj\Debug\InheritPerson.csproj.SuggestedBindingRedirects.cache
+E:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\obj\Debug\InheritPerson.csproj.CoreCompileInputs.cache
+E:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\obj\Debug\InheritPerson.exe
+E:\Coding Projects Portfolio\Basic C Sharp\111- Inheritance Assignment\InheritPerson\InheritPerson\obj\Debug\InheritPerson.pdb

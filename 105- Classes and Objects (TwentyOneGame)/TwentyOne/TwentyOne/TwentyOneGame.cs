@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Optional_Parameters
+namespace TwentyOne
 {
-    internal class MathOperation
+    public class TwentyOneGame : Game
     {
-        public int Multiply(int a, int b = 25 )
+        public void Play()
         {
-           
-            return a * b;
+            throw new NotImplementedException();
         }
     }
 }

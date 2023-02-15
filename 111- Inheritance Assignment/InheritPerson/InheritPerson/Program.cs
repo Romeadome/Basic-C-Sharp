@@ -19,7 +19,7 @@ namespace InheritPerson
         {
             // Object Initalization
             Employee employee = new Employee() { FirstName = "Sample", LastName = "Student"};
-
+            // Calling the superclass method SayName() on the employee object
             employee.SayName();
             Console.ReadLine();
         }

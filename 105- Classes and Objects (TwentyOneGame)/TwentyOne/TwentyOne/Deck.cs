@@ -28,5 +28,25 @@ namespace TwentyOne
 
         }
         public List<Card> Cards { get; set; }
+
+        //create a method/function that takes a deck parameter and returns a shuffled deck from the templist variable.
+        public void Shuffle(int times = 1)
+        {
+            
+            for (int i = 0; i < times; i++)
+            {
+                List<Card> shuffledDeck = new List<Card>();
+                Random random = new Random();
+
+                while (Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, Cards.Count);
+                    shuffledDeck.Add(Cards[randomIndex]);
+                    Cards.RemoveAt(randomIndex);
+
+                }
+                Cards = shuffledDeck;
+            }
+        }
     }
 }
